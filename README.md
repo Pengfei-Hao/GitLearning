@@ -6,4 +6,8 @@ aaaa
 
 bbbb
 
+<<<<<<< HEAD
 ccccc
+=======
+ddddd
+>>>>>>> test
