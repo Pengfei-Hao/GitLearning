@@ -9,8 +9,7 @@ bbbb
 ddddd
 
 eeee
-<<<<<<< HEAD
-=======
 
 ffff
->>>>>>> test
+
+111111
