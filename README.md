@@ -9,3 +9,8 @@ bbbb
 ddddd
 
 eeee
+<<<<<<< HEAD
+=======
+
+ffff
+>>>>>>> test
